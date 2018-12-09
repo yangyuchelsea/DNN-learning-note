@@ -4,6 +4,8 @@
 
 ## Tricks
 
+1. [Wei blog](https://github.com/yangyuchelsea/DNN-learning-note/blob/master/Tricks/readme.md)
+
 
 
 
