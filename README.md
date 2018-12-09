@@ -4,7 +4,7 @@
 
 ## Tricks
 
-1. [Wei blog](https://github.com/yangyuchelsea/DNN-learning-note/blob/master/Tricks/readme.md)
+1. [Notes for Must Know Tips/Tricks in Deep Neural Networks by Xiu-Shen Wei](https://github.com/yangyuchelsea/DNN-learning-note/blob/master/Tricks/readme.md)
 
 
 
