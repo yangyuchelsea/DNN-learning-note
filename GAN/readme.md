@@ -9,6 +9,8 @@
 Morvan python is one of my favourite website when learning machine learning, Morvan provided a Mandarin vedio to talk about the main idea of GAN and an entry-level 
 tutorial by pytorch.
 
+[My notes](https://github.com/yangyuchelsea/DNN-learning-note/blob/master/GAN/Morvan-gan-tutorial.ipynb)
+
 
 ### Hung-yi Lee [lecture vedio](https://www.youtube.com/watch?v=DQNNMiAP5lw&list=PLJV_el3uVTsMq6JEFPW35BCiOQTsoqwNw)
 
