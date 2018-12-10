@@ -1,6 +1,17 @@
 # DNN learning notes
 
 ## GAN
+### 1. Entry-level
+
+- Morvan 
+
+- Hung-yi Lee
+
+### 2. Vanilla GAN 
+
+- paper
+
+- NIPS 2016 Tutorial by Ian Goodfellow
 
 ## Tricks
 
