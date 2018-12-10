@@ -1,6 +1,6 @@
 # DNN learning notes
 
-## GAN
+## [GAN](https://github.com/yangyuchelsea/DNN-learning-note/blob/master/GAN/readme.md)
 ### 1. Entry-level
 
 - Morvan 
