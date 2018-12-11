@@ -16,7 +16,9 @@ tutorial by pytorch.
 
 ## 2. Vanilla GAN 
 
-- [Paper](https://arxiv.org/abs/1406.2661) 
+### [Paper](https://arxiv.org/abs/1406.2661)
+
+![alt text](https://github.com/yangyuchelsea/DNN-learning-note/blob/master/GAN/GAN.png) 
 
 - NIPS 2016 Tutorial by Ian Goodfellow
 [report](https://arxiv.org/abs/1701.00160)
